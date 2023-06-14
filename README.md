@@ -1,9 +1,11 @@
 # NBA Player Statistics Analysis and Prediction System
-Contributors
-@Jacob Evans
-@Karan Anand
-@Pratik Purohit
-@Priya Maringanti
+> Contributors<br>
+@Jacob Evans<br>
+@Karan Anand<br>
+@Pratik Purohit<br>
+@Priya Maringanti<br>
+
+The original repository can be found <a href="https://github.com/rmertoztop/project_4">here</a>.
 
 ---
 
