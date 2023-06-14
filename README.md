@@ -1,4 +1,11 @@
 # NBA Player Statistics Analysis and Prediction System
+Contributors
+@Jacob Evans
+@Karan Anand
+@Pratik Purohit
+@Priya Maringanti
+
+---
 
 ## Background
 Basketball is a popular team sport played on a rectangular court between two teams, each consisting of five players. The objective of the game is to score points by shooting a ball through the opponent's hoop while preventing the opposing team from scoring.
